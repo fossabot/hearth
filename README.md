@@ -1,4 +1,5 @@
 [![Build Status](https://travis-ci.org/jembi/hearth.svg?branch=master)](https://travis-ci.org/jembi/hearth) [![codecov](https://codecov.io/gh/jembi/hearth/branch/master/graph/badge.svg)](https://codecov.io/gh/jembi/hearth)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcarlsbox%2Fhearth.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcarlsbox%2Fhearth?ref=badge_shield)
 
 # Hearth
 HEARTH (noun): the floor of a '[FHIR](http://hl7.org/fhir/)'place. A fast FHIR-compliant server focused on longitudinal data stores.
@@ -46,3 +47,7 @@ View the possible config fields [here](https://github.com/jembi/hearth/blob/mast
 # Pro dev tips:
 * To run only specific test files use `yarn test:these-files test/pdqm.js`.
 * Run `yarn cov` to show coverage details in your browser.
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcarlsbox%2Fhearth.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcarlsbox%2Fhearth?ref=badge_large)
